@@ -25,3 +25,4 @@ function saveThePrisoner(n, m, s) {
     }
 }
 console.log(saveThePrisoner(3,262945527,1));//3
+    
